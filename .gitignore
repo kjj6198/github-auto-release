@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+*.pem
+.env
+package-lock.json
+auto-release.2018-05-13.private-key.pem
+.DS_Store
